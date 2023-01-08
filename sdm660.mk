@@ -565,6 +565,7 @@ PRODUCT_PACKAGES += \
 
 # Tin
 PRODUCT_PACKAGES += \
+    libtinyxml \
     tinyxml2 \
     libxml2 
 
